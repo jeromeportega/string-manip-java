@@ -4,7 +4,6 @@
 * Date: March 7, 2021
 */
 
-package com.company;
 import java.util.*;
 
 public class Main {
