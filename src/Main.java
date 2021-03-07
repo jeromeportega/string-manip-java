@@ -1,7 +1,7 @@
 /*
-* Name: Jerome Ortega
-* Module 1 - String Manipulation
-* Date: March 7, 2021
+    Name: Jerome Ortega
+    Module 1 - String Manipulation
+    Date: March 7, 2021
 */
 
 import java.util.*;
