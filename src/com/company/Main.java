@@ -1,3 +1,9 @@
+/*
+* Name: Jerome Ortega
+* Module 1 - String Manipulation
+* Date: March 7, 2021
+*/
+
 package com.company;
 import java.util.*;
 
